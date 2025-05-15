@@ -1,0 +1,32 @@
+{
+	"name": "y",
+	"version": "1.0.0",
+	"description": "This is namaste React Rivision",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/juniorjudy123/namaste-React-2025-May.git"
+	},
+	"keywords": [
+		"namaste",
+		"react"
+	],
+	"author": "Benoy",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/juniorjudy123/namaste-React-2025-May/issues"
+	},
+	"homepage": "https://github.com/juniorjudy123/namaste-React-2025-May#readme",
+	"devDependencies": {
+		"parcel": "^2.14.4"
+	},
+	"dependencies": {
+		"react": "^19.1.0",
+		"react-dom": "^19.1.0"
+	},
+  "browserslist":[
+    "last 2 versions"
+]
+}
