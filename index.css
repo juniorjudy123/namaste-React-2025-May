@@ -34,9 +34,10 @@
 }
 .res-card {
 	width: 200px;
-	padding: 5px;
+	padding: 10px;
 	background-color: #f0f0f0;
 	margin: 5px;
+	box-sizing: border-box;
 }
 .res-card:hover {
 	cursor: pointer;
@@ -45,4 +46,13 @@
 
 .res-logo {
 	width: 100%;
+}
+.cuisines {
+	white-space: normal;
+	word-break: break-word;
+	overflow-wrap: break-word;
+	max-width: 100%;
+	font-size: 14px;
+	color: #333;
+	margin-top: 5px;
 }
